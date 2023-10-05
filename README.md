@@ -1,4 +1,4 @@
-### Hi there 👋
+### ನಮಸ್ಕಾರ | नमस्ते | నమస్కారం | வணக்கம் | നമസ്കാരം | Hello 🙏🏼🙏🏼
 
 <!--
 **sanketzad/sanketzad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
